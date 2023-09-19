@@ -26,6 +26,7 @@ public class BinSearch {
         int result = bs.BinarySearch(array, x);
 
         System.out.println("Array: " + Arrays.toString(array));
+        System.out.println("array length: " + n);
 
         if (result == -1)
             System.out.println("Element " + x + " not found.");
