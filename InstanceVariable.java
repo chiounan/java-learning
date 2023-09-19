@@ -1,5 +1,5 @@
 public class InstanceVariable {
-    // Instance variable
+    // Declar instance variable outside method or any block
     String geek;
     int i;
     Integer I;
