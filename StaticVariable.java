@@ -8,8 +8,6 @@ public class StaticVariable {
     public static void main (String args[]) {
         System.out.println("geek: " + StaticVariable.geek);
         // Static variable can be accessed without object creation (new)
-        
-        StaticVariable sv = new StaticVariable();
-        System.out.println("geek: " + sv.geek);
+        // StaticVariable sv = new StaticVariable();
     }
 }
