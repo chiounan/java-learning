@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class ArrayClass {
+public class ArraysClass {
 
     public static void Arritem(int numbers[]) {
         for (int num : numbers) {
